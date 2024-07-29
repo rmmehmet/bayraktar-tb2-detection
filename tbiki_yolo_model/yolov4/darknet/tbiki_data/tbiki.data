@@ -1,0 +1,5 @@
+classes = 1
+train = tbiki_data/tbiki_training.txt
+valid = tbiki_data/tbiki_testing.txt
+names = tbiki_data/tbiki.names
+backup = backup
