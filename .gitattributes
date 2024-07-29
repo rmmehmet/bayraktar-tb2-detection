@@ -2,8 +2,4 @@
 * text=auto
 *.weights filter=lfs diff=lfs merge=lfs -text
 *.137 filter=lfs diff=lfs merge=lfs -text
-ipynb filter=lfs diff=lfs merge=lfs -text
 *ipynb filter=lfs diff=lfs merge=lfs -text
-*.WIGHTS filter=lfs diff=lfs merge=lfs -text
-*.WeIGHTS filter=lfs diff=lfs merge=lfs -text
-*.WEIGHTS filter=lfs diff=lfs merge=lfs -text
