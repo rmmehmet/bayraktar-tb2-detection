@@ -40,17 +40,16 @@ video_path = "/content/drive/MyDrive/tb2_video.mp4"  # video path
 
 ### Example Detection
 
-![sample detection on test video
-](tbiki_yolo_model\tb2_output-2.png)
+![sample detection on test video](tbiki_yolo_model/tb2_output-2.png)
 
 ### Graphic From the Training Process
 
-![Training Process 1](tbiki_yolo_model\train-1.png)
-![Training Process 1](tbiki_yolo_model\train-2.png)
-![Training Process 1](tbiki_yolo_model\train-3.png)
-![Training Process 1](tbiki_yolo_model\train-4.png)
-![Training Process 1](tbiki_yolo_model\train-5.png)
-![Training Process 1](tbiki_yolo_model\train-6.png)
+![Training Process 1](tbiki_yolo_model/train-1.png)
+![Training Process 1](tbiki_yolo_model/train-2.png)
+![Training Process 1](tbiki_yolo_model/train-3.png)
+![Training Process 1](tbiki_yolo_model/train-4.png)
+![Training Process 1](tbiki_yolo_model/train-5.png)
+![Training Process 1](tbiki_yolo_model/train-6.png)
 
 ### Algorithm Created for Detection
 
